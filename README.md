@@ -1,5 +1,3 @@
 ## Hi there 👋
 
-This is the default profile readme thing. I will change it. At some point.. I promise...
-
-I'm a teapot btw 🦄
+I like using tech to solve real-world problems. I study computer engineering at the University of Zagreb. Find out more on my [website](https://emilpopovic.me).
